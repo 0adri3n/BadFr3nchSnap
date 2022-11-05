@@ -4,6 +4,8 @@
 
 ## Installation
 
+Read the following link to download ffmpeg : https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/
+
 Go to the <a href="https://github.com/akira-trinity/BadFr3nchSnap/releases">releases</a> page and download the last version in .zip.
 
 Extract it and start ```BadFr3nchSnap.exe```
