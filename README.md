@@ -20,7 +20,7 @@ python main.py
 
 Just open a mp4 file by clicking the button, then select one and ur done !
 
-<img src="https://user-images.githubusercontent.com/62818208/200097340-4b33a94b-a336-4886-8701-aa7c3d3002fa.PNG">
+<img src="https://user-images.githubusercontent.com/62818208/200117940-da6c1f91-5d47-464f-bd1c-8dc10cece80f.PNG">
 
 
 ## Contributing
